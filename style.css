@@ -1,0 +1,28 @@
+html {
+    font-family: sans-serif;
+  }
+
+  body {
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-image: url('background.folhagem.jpg');
+  }
+
+  .lastResult {
+    color: white;
+    padding: 3px;
+  }
+
+  .container {
+      margin-top: 100px;
+      align-items: center;
+  }
+
+  .wrapper {
+      border-style: groove;
+      border-color: gray;
+      padding: 20px;
+      background-color: whitesmoke;
+  }
+
